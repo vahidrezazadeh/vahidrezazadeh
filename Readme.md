@@ -10,14 +10,9 @@ familiar with Laravel, Nest.js, Next.js frameworks and interested in working as 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vahidrezazadeh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vahidrezazadeh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=vahidrezazadeh&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/v2hiid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vahidrezazadeh.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vahidrezazadeh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vahidrezazadeh5)
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/va)
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=vahidrezazadeh&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
